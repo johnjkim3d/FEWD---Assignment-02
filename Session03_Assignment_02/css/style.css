@@ -1,0 +1,122 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #888;
+	background-size: fixed;
+}
+body button {
+	font-family: 'Open Sans', sans-serif;
+	border-radius: 5px;
+}
+header {
+	height: 100vh;
+	background-image: url("../images/header_bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 1rem;
+}
+header h1 {
+	color: white;
+	font-weight: 800;
+	font-size: 72px;
+	padding-left: 12rem;
+}
+header p {
+	color: white;
+	font-weight: 600;
+	padding-bottom: 4rem;
+	font-size: 72px;
+}
+.getit {
+	text-align: center;
+	background-size: cover;
+	padding-top: 2rem;
+}
+.now {
+	font-weight: 800;
+	font-size: 30px;
+	color: #121212;
+	background-color: #f9e42e;
+	border-style: none;
+	padding: 10px 60px;
+}
+.benefits {
+	background-color: #f0efef;
+	max-width: 100%;
+	padding: 4rem;
+	padding-left: 15rem;
+}
+.benefits h1{
+	font-weight: 600;
+	color: #033048;
+	font-size: 48px;
+}
+.benefits p {
+	font-weight: 300;
+	font-size: 26px;
+	margin: 5px;
+	padding-right: 60rem;
+}
+section ul {
+	font-weight: 300;
+	font-size: 26px;
+	padding: 3rem;
+	padding-right: 70rem;
+}
+section li {
+	padding: 2px;
+}
+.testimony {
+	max-height: 100vw;
+	max-width: 100vw;
+	background-image: url("../images/testimonial_bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 3rem;
+}
+.quotes {
+	font-weight: 300;
+	color: white;
+	font-size: 36px;
+	text-align: center;
+	font-style: italic;
+	padding: 0rem 37rem;
+	max-width: 100vw;
+}
+.amanda {
+	font-weight: 600;
+	color: white;
+	padding: 10px 10px 10px;
+	font-size: 36px;
+	text-align: center;
+}
+.signupsection {
+	background: #f9e42e;
+	text-align: center;
+	padding: 3rem;
+}
+.signupsection button {
+	font-weight: 800;
+	font-size: 24px;
+	color: white;
+	background-color: #033048;
+	border-style: none;
+	padding: 10px 60px;
+}
+footer {
+	background-color: #121212;
+	text-align: center;
+	padding: 10px;
+}
+footer h1 {
+	color: #f9e42e;
+	font-weight: 800;
+	font-size: 48px;
+}
+footer p {
+	text-align: center;
+	font-size: 24px;
+	font-weight: 600;
+}
+footer img {
+	margin: 30px;
+}
